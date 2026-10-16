@@ -1,0 +1,45 @@
+
+
+
+#titlerouge{
+    color:red;
+    font-size:4em 
+}
+h2{
+    font-size : 5em ;
+    text-decoration: underline;
+}
+#yellow{
+  color: yellow;
+}
+#blue {
+   color : blue;
+}
+.rouge{
+    color : red;
+}
+h1{
+    text-align: center;
+}
+#boite {
+   background-color : red;
+   height : 70px;
+   width : 200px;
+   margin : 2em;
+   padding : 2em 1em 3em 5em;
+   border: 3px solid;
+}
+body {
+    width : 80%;
+    margin : auto
+
+}
+#text{
+     width : 50%;
+     margin : auto;
+     margin-top: 50px;
+}
+h2:hover {
+    color:blue;
+    font-size:5em;
+}
